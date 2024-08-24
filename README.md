@@ -9,7 +9,7 @@ coding has always excited me , the vision and the ideas in the surrounding is so
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [devlallohar@gmail.com](mailto:devlallohar@gmail.com)
 * 🧠  I'm learning MERN
-* 🤝  I'm open to collaborating on Node JS Projects
+* 🤝  I'm open to collaborating on Node JS and React JS Projects
 * ⚡  greedy to learn
 
 <a href="https://www.twitter.com/DevlalLohar" target="_blank" rel="noreferrer"><img
